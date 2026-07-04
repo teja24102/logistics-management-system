@@ -4,7 +4,7 @@
 | Role    | Email              | Password    |
 |---------|--------------------|-------------|
 | Manager | manager@lms.com    | manager123  |
-| Driver  | deepak@lms.com     | driver123   |
+| Driver  | deepak@lms.com     | deepak432   |
 | Driver  | suresh@lms.com     | driver123   |
 | Driver  | mohan@lms.com      | driver123   |
 
